@@ -28,6 +28,6 @@ Sistema para cópia e backup de arquivos.
         txt_saida.ScrollToCaret() 'quebra de linha
         txt_saida.ScrollBars = RichTextBoxScrollBars.ForcedBoth ' barra de rolagem vertical e orizontal
         MyProcess.Start()
-        MyProcess.BeginOutputReadLine()     'start async read on stdout
+        MyProcess.BeginOutputReadLine()     'pular linha
 
 ```
