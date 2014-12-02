@@ -31,4 +31,4 @@ Sistema para cópia e backup de arquivos.
         MyProcess.BeginOutputReadLine()     'pular linha
 
 ```
-![](http://marcosjunior.hol.es/git-hub/prototype-instalador.png)
+![](http://marcosjunior.hol.es/git-hub/robocopy.png)
